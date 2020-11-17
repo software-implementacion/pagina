@@ -1,0 +1,77 @@
+.navbar{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 20px;
+}
+
+.cajon-info{
+	margin-top: 50px;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+.caja-info{
+	width: 31.333%;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+.caja-informatica{
+	width: 23%;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+.titulo-info{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Patua One', cursive;
+	text-decoration: underline;
+}
+
+.txt-info{
+	margin-top: 5px;
+	text-align: justify;
+}
+
+.tablaFotos1{
+	padding: 10px;
+}
+.tablaFotos2{
+	padding: 10px;
+}
+.tablaFotos3{
+	padding: 10px;
+}
+
+.tablaTexto{
+	padding: 20px;
+}
+
+.tablaTexto1{
+	padding: 10px;
+}
+
+.tablaTexto2{
+	padding: 10px;
+}
+
+.tablaTexto3{
+	padding: 10px;
+}
+
+.mdb-color{
+	background: #B2DCB3;
+}
+
+.planos{
+	margin-top: 20px;
+	background: #FF4D21; 
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
